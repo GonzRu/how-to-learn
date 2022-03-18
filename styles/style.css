@@ -10,13 +10,6 @@
 }
 
 /* ------------- Description */
-.description {
-  display: flex;
-  justify-content: center;
-  margin: 0;
-  padding: 100px 0 0 0;
-}
-
 .two-columns {
   margin: 0;
   padding: 0;
