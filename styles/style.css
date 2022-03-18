@@ -9,53 +9,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.table {
-  width: 1100px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-between;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  z-index: 2;
-}
-
-.table_theme_dark {
-  color: white;
-}
-
-.table__cell {
-  width: 250px;
-  margin-top: 60px;
-  padding: 0;
-}
-
-.table__cell_theme_dark {
-  color: white;
-  width: 200px;
-  margin-top: 80px;
-}
-
-.table__heading {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-  margin: 0;
-  padding: 0;
-}
-
-.table__heading-theme-dark {
-  color: white;
-}
-
-.table__text {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  margin: 20px 0 0 0;
-  padding: 0;
-}
-
 /* ------------- Header */
 .header {
   height: 100vh;
