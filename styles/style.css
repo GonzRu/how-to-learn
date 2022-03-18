@@ -9,25 +9,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.logo {
-  width: 183px;
-  height: 32px;
-  margin: 0;
-  padding: 0;
-}
-
-.logo_place_header {
-  position: absolute;
-  background-image: url('../images/logo_place_header.svg');
-  left: 64px;
-  top: 30px;
-}
-
-.logo_place_footer {
-  background-image: url('../images/logo_place_footer.svg');
-  height: 35px;
-}
-
 .section-title {
   line-height: 1.15;
   font-size: 60px;
