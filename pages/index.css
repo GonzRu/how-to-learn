@@ -1,5 +1,5 @@
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__link/page__link.css);
+@import url(../blocks/link/link.css);
 
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -55,7 +55,6 @@
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/rotation/_active/rotation_active.css);
 
 @import url(../blocks/techniques/techniques.css);
 
